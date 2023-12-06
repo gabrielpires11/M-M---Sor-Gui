@@ -150,3 +150,40 @@ textarea  {
 .faleconosco {
     margin-left: 27%;
 }
+
+.corpo23 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffd43f;
+}
+
+form {
+    display: block;
+    margin: 0;
+    width: 380px;
+    padding: 70px;
+    background-color: #ffe175;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+    margin-bottom: 2rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.4rem 0.75rem;
+    
+    border: 4px solid #000000;
+
+}
+
+.form-text {
+    margin-top: 0,23rem;
+    font-size: 1em;
+    color: #000000;
+}
